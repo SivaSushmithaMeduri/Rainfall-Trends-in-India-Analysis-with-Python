@@ -27,6 +27,10 @@ To run this project locally, install the required dependencies:
           
           pip install pandas plotly numpy prophet
 
+## Run Jupyter notebook
+
+          jupyter notebook Rainfall_Trends_in_India_Analysis_with_Python.ipynb
+
 ## Key Visualizations
 
 * Annual Rainfall Trends: A line graph showing yearly rainfall variations.
